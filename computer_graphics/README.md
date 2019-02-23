@@ -1,6 +1,6 @@
 ### Rendering
 
-* [:scroll:](digital_video_stabilization_and_rolling_shutter_correction_using_gyroscopes.pdf) [Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes](http://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf)
+* :scroll: [Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes](http://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf)
 This is a really great paper that is both complex and straightforward. This paper "present a robust, real-time video stabilization and rolling shutter correction technique based on gyroscopes". I think this is a great paper because it makes a clever use of a commodity technology (smartphones' gyroscopes) to make a state-of-the-art improvement to a central components of phones: video cameras by removing the shakes and rolling shutter artifacts of a video in real-time.
 
 * [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/CS586/Papers/p343-whitted.pdf)
@@ -20,6 +20,9 @@ This is a really great paper that is both complex and straightforward. This pape
 
 ### Object modeling
 * [3-Sweep: Extracting Editable Objects from a Single Photo](http://www.cs.tau.ac.il/~dcor/articles/2013/3-Sweep-Extracting-Editable-Objects.pdf) - [Video](https://www.youtube.com/watch?v=Oie1ZXWceqM)
+
+### Photo editing
+* [Deep Photo Style Transfer](https://arxiv.org/pdf/1703.07511.pdf) (2017) - [Code](https://github.com/luanfujun/deep-photo-styletransfer) - A deep-learning approach to photographic style transfer (that is, taking the style of one photo and automatically applying it to another). The images in this paper are gorgeous.
 
 ### Lighting
 * [Light Propagation Volumes in CryEngine 3](http://www.crytek.com/download/Light_Propagation_Volumes.pdf)
